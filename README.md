@@ -26,6 +26,18 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, T flip-flop
  
 From the above characteristic table, we can directly write the next state equation as Q(t+1)=T′Q(t)+TQ(t)′ ⇒Q(t+1)=T⊕Q(t)
 
+Procedure
+
+1.Type the program in the Quartus software.
+
+2.compile and run the program.
+
+3.geenerate the RTL schematic and save the logical diagram.
+
+4.creat the node for the input and output to generate the timing diagram.
+
+5.for the different input combination generate the timing diagram.
+
 
 **PROGRAM**
 
